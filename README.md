@@ -2,7 +2,7 @@
 >A Java based voting application with email authentication
 
 ### Tools used
-> Eclipse
+> Eclipse <br>
 > Java 1.8
 > mail.jar and activation.jar (uploaded in the repo)
 
